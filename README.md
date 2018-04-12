@@ -1,10 +1,12 @@
 # SolarSystSimulatorWWDC2018
 WWDC 2018 Submission - Solar System Simulator
 
-This project tried to simulate our solar system planets position. 
+This project tried to simulate our solar system planets position.
+
+Here you can check where the planets were on an important date, like your birthday!
 
 It is possible to :
-  - remove time parameter
-  - change time speed
-  - set initial date to see planets position on this date
-  - show or hide planet orbit
+  - Remove time parameter
+  - Change time speed
+  - Set initial date to see planets position on this date
+  - Show or hide planet orbit
