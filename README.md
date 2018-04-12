@@ -10,3 +10,5 @@ It is possible to :
   - Change time speed
   - Set initial date to see planets position on this date
   - Show or hide planet orbit
+
+![T](https://ibb.co/cMtTcH?raw=true "Planets allignment with orbit")
